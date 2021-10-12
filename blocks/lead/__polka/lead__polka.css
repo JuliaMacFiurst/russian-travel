@@ -1,0 +1,6 @@
+.lead__polka {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 6% 10vw 0;
+}

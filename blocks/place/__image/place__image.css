@@ -1,0 +1,5 @@
+.place__image {
+    max-width: calc(100%/2 - 20px);
+    height: min-content;
+    margin: 48px 0 0;
+}

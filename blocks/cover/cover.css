@@ -1,0 +1,17 @@
+.cover {
+    max-width: 1184px;
+    margin: 7% auto;
+    font-family: "Inter", Arial, Helvetica, sans-serif;
+}
+
+/*position: relative;
+    padding: 274px 40px 48px 40px;
+    max-width: 1184px;
+    margin: 0 auto 82px auto;
+    text-decoration: none;
+    background-image: url(../../images/cover.jpg);
+    transition: .2s linear;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;*/
