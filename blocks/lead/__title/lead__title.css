@@ -21,17 +21,17 @@
   }
 }
 
-@media (max-width: 664px){
-    .lead__title {
-        margin: 48px 0 0 0;
-        font-size: 75px;
-        line-height: 1.1;
-    }
+@media (max-width: 664px) {
+  .lead__title {
+    margin: 48px 0 0 0;
+    font-size: 75px;
+    line-height: 1.1;
+  }
 }
 
 @media (max-width: 520px) {
-    .lead__title {
-        font-size: 40px;
-        line-height: 1.1;
-    }
+  .lead__title {
+    font-size: 40px;
+    line-height: 1.1;
+  }
 }
