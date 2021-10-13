@@ -4,3 +4,13 @@
   line-height: 1.14;
   margin: 0;
 }
+
+@media (max-width: 658px) {
+  .footer__copyright {
+    font-size: 14px;
+    line-height: 14px;
+    display: block;
+    align-self: flex-start;
+    padding-top: 48px;
+  }
+}

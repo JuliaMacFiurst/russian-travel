@@ -8,3 +8,9 @@
   flex-direction: column;
   place-items: center;
 }
+
+@media (max-width: 1025px) {
+  .lead {
+    margin: 0 48px;
+  }
+}

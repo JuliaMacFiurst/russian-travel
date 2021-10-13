@@ -6,3 +6,23 @@
   font-family: "Inter", Arial, Helvetica, sans-serif;
   color: #ffffff;
 }
+
+@media (max-width: 1024px) {
+  .footer {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 769px) {
+  .footer {
+    padding: 0 24px;
+  }
+}
+
+@media (max-width: 658px) {
+  .footer {
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+}

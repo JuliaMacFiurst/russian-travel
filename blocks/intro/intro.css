@@ -1,5 +1,30 @@
 .intro {
-    font-family: Inter, Arial, Helvetica, sans-serif;
-    margin: 6% 10vw 0;
-    max-width: 54%;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 984px;
+  padding-top: 92px;
+}
+
+@media (max-width: 1025px) {
+  .intro {
+    margin: 0 48px;
+  }
+}
+
+@media (max-width: 769px) {
+  .intro {
+    margin: 0 3%;
+    padding-top: 88px;
+  }
+}
+
+@media (max-width: 320px) {
+  .intro {
+    margin: 0 5%;
+    padding-top: 64px;
+  }
 }

@@ -1,9 +1,3 @@
 .lead__photo-polka {
     max-width: 100%;
 }
-
-@media (max-width: 1026px) {
-    .lead__photo-polka {
-        max-width: 100%;
-    }
-}
