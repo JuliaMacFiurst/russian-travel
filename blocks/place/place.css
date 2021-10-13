@@ -10,3 +10,9 @@
 .place:last-child {
   margin-bottom: 0;
 }
+
+@media (max-width: 420px) {
+  .place {
+    margin-bottom: 32px;
+  }
+}

@@ -1,3 +1,17 @@
 .lead__photo-polka {
+  max-width: 100%;
+}
+
+@media (max-width: 768px) {
+  .lead__photo-polka {
     max-width: 100%;
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 340px) {
+  .lead__photo-polka {
+    max-width: 100%;
+    min-height: 200px;
+  }
 }
