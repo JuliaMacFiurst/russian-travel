@@ -16,7 +16,7 @@
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 380px) {
   .photo-grid__cell {
     max-width: calc(100% - 32px);
     padding: 0 16px;

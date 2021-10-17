@@ -1,0 +1,40 @@
+.lead__image {
+  max-width: 100%;
+  min-height: 615px;
+}
+
+@media (max-width: 1024px) {
+  .lead__image {
+    min-height: 580px;
+  }
+}
+
+@media (max-width: 880px) {
+  .lead__image {
+    min-height: 500px;
+  }
+}
+
+@media (max-width: 768px) {
+  .lead__image {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 650px) {
+  .lead__image {
+    min-height: 380px;
+  }
+}
+
+@media (max-width: 450px) {
+  .lead__image {
+    min-height: 280px;
+  }
+}
+
+@media (max-width: 340px) {
+  .lead__image {
+    min-height: 200px;
+  }
+}

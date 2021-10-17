@@ -1,0 +1,7 @@
+.header__lang-list {
+    padding-right: 18px;
+}
+
+.header__lang-list:last-child {
+    padding-right: 0;
+}

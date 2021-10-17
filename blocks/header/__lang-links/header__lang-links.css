@@ -7,6 +7,9 @@
   text-align: right;
   display: flex;
   flex-direction: row;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 @media (max-width: 433px) {

@@ -1,4 +1,5 @@
 .photo-grid {
+  max-width: 1184px;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   grid-column-gap: 1vw;
@@ -10,7 +11,6 @@
 
 @media (max-width: 1025px) {
   .photo-grid {
-    min-height: 960px;
     overflow: visible;
     margin: 0 48px;
   }

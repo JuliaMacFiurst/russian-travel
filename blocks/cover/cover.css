@@ -3,3 +3,9 @@
   margin: 92px auto;
   font-family: "Inter", Arial, Helvetica, sans-serif;
 }
+
+@media (max-width: 400px) {
+  .cover {
+    margin: 66px auto;
+  }
+}

@@ -7,7 +7,6 @@
 
 @media (max-width: 658px) {
   .footer__copyright {
-    font-size: 14px;
     line-height: 14px;
     display: block;
     align-self: flex-start;
