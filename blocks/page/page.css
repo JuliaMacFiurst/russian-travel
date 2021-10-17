@@ -14,9 +14,9 @@
   }
 }
 
-@media (max-width: 642px) {
+@media (max-width: 930px) {
   .page {
-    padding: 30px 16px 24px;
+    padding: 28px 0 24px;
     margin: 0;
   }
 }

@@ -9,9 +9,3 @@
     max-height: 42px;
   }
 }
-
-@media (max-width: 425px) {
-  .header {
-    margin: 0 16px;
-  }
-}

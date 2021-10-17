@@ -3,7 +3,7 @@
   max-width: 984px;
   display: flex;
   flex-wrap: wrap;
-  margin: 0 auto 8%;
+  margin: 0 auto 80px;
   justify-content: space-between;
 }
 
@@ -17,8 +17,15 @@
   }
 }
 
+@media (max-width: 768px) {
+  .place {
+    max-width: 720px;
+    margin-bottom: 73px;
+  }
+}
+
 @media (max-width: 420px) {
   .place {
-    margin-bottom: 32px;
+    margin-bottom: 50px;
   }
 }

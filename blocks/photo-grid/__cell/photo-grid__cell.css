@@ -3,9 +3,21 @@
   max-height: min-content;
 }
 
+@media (max-width: 1260px) {
+  .photo-grid__cell {
+    max-width: 100%;
+  }
+}
+
 @media (max-width: 1025px) {
   .photo-grid__cell {
     max-width: 300px;
+  }
+}
+
+@media (max-width: 1020px) {
+  .photo-grid__cell {
+    max-width: 100%;
   }
 }
 
@@ -13,6 +25,11 @@
   .photo-grid__cell {
     max-width: 352px;
     overflow: hidden;
+  }
+}
+@media (max-width: 720px) {
+  .photo-grid__cell {
+    max-width: 100%;
   }
 }
 
