@@ -31,7 +31,7 @@
 8. Работа в макетом в Figma
 
  
-Ссылка на проект [ТУТ](https://github.com/JuliaMacFiurst/russian-travel)
+Ссылка на проект [ТУТ](https://juliamacfiurst.github.io/russian-travel/)
 
  
 
