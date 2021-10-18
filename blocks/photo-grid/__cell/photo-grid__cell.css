@@ -27,7 +27,7 @@
     overflow: hidden;
   }
 }
-@media (max-width: 720px) {
+@media (max-width: 750px) {
   .photo-grid__cell {
     max-width: 100%;
   }
@@ -35,7 +35,6 @@
 
 @media (max-width: 380px) {
   .photo-grid__cell {
-    max-width: calc(100% - 32px);
-    padding: 0 16px;
+    max-width: 100%;
   }
 }

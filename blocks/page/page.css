@@ -14,17 +14,8 @@
   }
 }
 
-@media (max-width: 930px) {
-  .page {
-    padding: 28px 0 24px;
-    margin: 0;
-  }
-}
-
 @media (max-width: 320px) {
   .page {
-    min-width: 320px;
-    margin: 0 auto;
     padding: 16px 0 24px;
   }
 }
